@@ -16,6 +16,7 @@ Mise en place d'un Trello collaboratif avec des mises aux points le midi et le s
 Abbritution des tâches
 Début du code
 Attribution des pages
+
 Le deuxéme jour :
 
 Vérification des pages
@@ -23,6 +24,7 @@ Le formulaire
 Le read-me premiere épreuve
 Le footer
 Design des pages
+
 Le troisiéme jour :
 
 Restriction formulaire

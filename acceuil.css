@@ -116,7 +116,6 @@ div.contReseau{
 div.contReseau .textgauche{
     display:flex;
     flex-direction: column;
-    gap: em ;
     justify-content: flex-start;
 
    

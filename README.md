@@ -32,6 +32,8 @@ Intégration du texte dans le vs
 Design
 Vérification des pages
 Mises en places des articles
-Collaboration
+Mise en page 
+Publication git 
+
 
 Julie,Clément,Romain et Abdel
